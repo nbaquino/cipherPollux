@@ -64,6 +64,15 @@ To install the necessary components for this project, follow these steps for you
    cargo build
    ```
 
+## Running
+To run the project, execute the following command in the terminal:
+
+```
+cargo run
+```
+Make sure you are in the directory of the project file. 
+
+
 ## Contributing
 We welcome contributions from the community. If you would like to contribute, please follow these steps:
 1. Fork the repository.
@@ -71,11 +80,5 @@ We welcome contributions from the community. If you would like to contribute, pl
 3. Make your changes.
 4. Submit a pull request.
 
-## Running
-To run the project, execute the following command in the terminal:
-
-```
-cargo run
-```
 
 For more information and updates, please check our [GitHub repository](https://github.com/nbaquino/pollux-cipher).
