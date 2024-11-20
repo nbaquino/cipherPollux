@@ -3,6 +3,8 @@
 ## Background
 The Pollux Cipher is a cryptographic method that involves encoding messages in a unique way. It was developed as a variant of the Morse code where each symbol is replaced by a group of three digits. This cipher is particularly interesting because of its simplicity and its historical use in secure communications.
 
+This project was developed as a machine problem for CMSC 191 - Computer Security and Intro to Cryptography.
+
 ## Approach
 Our approach to solving the Pollux Cipher involves a combination of digital signal processing and pattern recognition techniques. We use statistical analysis to decode the frequencies of the digits and map them back to their corresponding Morse code symbols.
 
